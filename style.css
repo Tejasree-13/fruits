@@ -1,0 +1,19 @@
+html{
+    background-color:rgb(24, 118, 142);
+}
+.color{
+    height: 500px;
+    width: 1000px;
+}
+*{
+    text-align: center;
+}
+#mango{
+    color: rgb(221, 221, 10);
+}
+#grape{
+    color:rgb(25, 3, 49);
+}
+#sberry{
+    color: rgb(138, 23, 46);
+}
